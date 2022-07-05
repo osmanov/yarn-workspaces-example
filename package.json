@@ -3,13 +3,5 @@
  "workspaces": [
   "packages/*"
  ],
- "scripts": {
-  "new-version": "lerna version --conventional-commits --yes",
-  "diff": "lerna diff",
-  "test": "lerna run test"
- },
- "name": "yarn-workspaces-example",
- "devDependencies": {
-  "lerna": "^5.1.6"
- }
+ "name": "yarn-workspaces-example"
 }
