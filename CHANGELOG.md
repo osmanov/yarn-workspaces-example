@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/osmanov/yarn-workspaces-example/compare/v1.1.0...v1.2.0) (2022-07-05)
+
+
+### Features
+
+* :zap: call server func twice ([8de64da](https://github.com/osmanov/yarn-workspaces-example/commit/8de64da319e5c442d482aa102b125e3c64bb6234))
+
+
+
+
+
 # 1.1.0 (2022-07-05)
 
 
